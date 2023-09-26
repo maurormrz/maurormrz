@@ -1,6 +1,5 @@
 <h1 align="center">¡Hola, soy Mauro! 👋</h1>
 <h3 align="center">Hola, soy Mauro. Soy Desarrollador Python Junior. Me gusta aprender, especializarme y trabajar en equipo para la creación de proyectos.</h3>
-<br>
 <h3 align="center">Tengo buenos conocimientos en HTML, CSS, BOOTSTRAP, GIT, PYTHON y DJANGO.</h3>
 
 - 📫 Email: **maurormrz15@gmail.com**
