@@ -5,7 +5,8 @@
 
 <div align="center">
   <h2>Acerca de mí</h2>
-  <p align="center">👨‍💻 <strong>Desarrollador Web</strong> con experiencia en <strong><span style="color:red;">Angular</span></strong></p>
+  <p align="center">👨‍💻 <strong>Desarrollador Web</strong> con experiencia en ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
+</p>
   <p align="center">✉️ <strong>Correo electrónico:</strong> maurormrz15@gmail.com</p>
   <p align="center">📍 <strong>Ubicación:</strong> Corrientes, Argentina</p>
 </div>
