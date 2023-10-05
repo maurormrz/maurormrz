@@ -6,8 +6,8 @@
 <div align="center">
   <h2>Acerca de mí</h2>
   <p align="center">👨‍💻 <strong>Desarrollador Web</strong> con experiencia en <strong>Angular</strong>.</p>
-  <p align="center">📍 <strong>Ubicación:</strong> Corrientes, Argentina</p>
   <p align="center">✉️ <strong>Correo electrónico:</strong> maurormrz15@gmail.com</p>
+  <p align="center">📍 <strong>Ubicación:</strong> Corrientes, Argentina</p>
 </div>
 
 <div align="center">
@@ -17,6 +17,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  </p>
+  <p align="center">
     <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
     <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
