@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola, soy Mauro Nahuel Ramirez! 👋</h1>
+  <h1>¡Hola, soy Mauro Ramirez!</h1>
   <p>Soy un <strong>Desarrollador Web</strong> con enfoque del lado Front end utilizando la potente tecnología <strong>Angular</strong>. Estoy constantemente buscando oportunidades para aprender, especializarme y colaborar en proyectos.</p>
 </div>
 
