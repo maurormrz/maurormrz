@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2>Lenguajes y Herramientas</h2>
-  <p> </p>
+  <p>J</p>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
