@@ -1,12 +1,13 @@
-<h1>¡Hola, soy Mauro Ramirez!</h1>
-<p>Soy un <strong>Desarrollador Web</strong> con enfoque del lado Front end utilizando la potente tecnología <strong>Angular</strong>. Estoy constantemente buscando oportunidades para aprender, especializarme y colaborar en proyectos.</p>
+<h1>Hello, I'm Mauro Ramirez!</h1>
 
-<h2>Acerca de mí</h2>
-<p>👨‍💻 <strong>Desarrollador Web</strong> con experiencia en <strong>Angular</strong></p>
-<p>✉️ <strong>Correo electrónico:</strong> maurormrz15@gmail.com</p>
-<p>📍 <strong>Ubicación:</strong> Corrientes, Argentina</p>
+<h2>About Me</h2>
+<ul>
+  <li><strong>Profession:</strong> Web Developer with experience in Angular</li>
+  <li><strong>Email:</strong> maurormrz15@gmail.com</li>
+  <li><strong>Location:</strong> Argentina</li>
+</ul>
 
-<h2>Lenguajes y Herramientas</h2>
+<h2>Languages and Tools</h2>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
@@ -20,8 +21,8 @@
   <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
 </p>
 
-<h2>Contacto</h2>
-<p>¡No dudes en contactarme o seguirme en mis redes sociales y perfiles profesionales!</p>
+<h2>Contact</h2>
+<p>Feel free to contact me or follow me on my social and professional profiles!</p>
 <a href="https://www.linkedin.com/in/maurormrz"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/maurormrz"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://discordapp.com/users/mauronahuelramirez"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
