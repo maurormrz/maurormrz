@@ -1,4 +1,4 @@
-<h1>Hello, I'm Mauro Ramirez!</h1>
+<h1>Hi, I'm Mauro Ramirez</h1>
 
 <h2>About Me</h2>
 <ul>
