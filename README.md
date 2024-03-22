@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 <ul>
-  <li><strong>Profession:</strong> Web Developer</li>
+  <li><strong>Profession:</strong> Frontend Web Developer</li>
   <li><strong>Email:</strong> maurormrz15@gmail.com</li>
   <li><strong>Location:</strong> Argentina</li>
 </ul>
