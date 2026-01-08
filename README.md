@@ -29,6 +29,6 @@
 
 <h2>Contact</h2>
 <p>Feel free to contact me or follow me on my social and professional profiles!</p>
-<a href="https://www.linkedin.com/in/maurormrz"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/maurormrz"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://discordapp.com/users/mauronahuelramirez"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.linkedin.com/in/maurormrz"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/maurormrz"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge" alt="Instagram"></a>
+<a href="https://discordapp.com/users/mauronahuelramirez"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge" alt="Discord"></a>
