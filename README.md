@@ -2,12 +2,18 @@
 
 <h2>About Me</h2>
 <ul>
-  <li><strong>Profession:</strong> Frontend Web Developer</li>
+  <li><strong>Profession:</strong> Data Analyst</li>
   <li><strong>Email:</strong> maurormrz15@gmail.com</li>
   <li><strong>Location:</strong> Argentina</li>
 </ul>
 
 <h2>Languages and Tools</h2>
+<p>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+</p>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
